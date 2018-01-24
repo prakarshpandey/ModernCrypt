@@ -65,5 +65,23 @@ def main():
     else:
         print("The least common multiple of", a, "and", b, "is", lcm_no_or(a, b))
 
+# make the main method run automatically when the program is run
 if __name__ == "__main__":
     main()
+
+"""
+Sample Outputs:
+Please enter two integers a and b
+3
+4
+The least common multiple of 3 and 4 is 12
+
+Please enter two integers a and b
+34509
+12315
+The least common multiple of 34509 and 12315 is 141659445
+
+Please enter two integers a and b
+True
+You did not enter an int. Exiting
+"""
