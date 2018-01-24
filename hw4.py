@@ -22,6 +22,8 @@ def printSequence():
     print([fibElementAtPos(x) for x in range(1, 11)])
 
 """
+Sample Output:
+
 >>> printSequence()
 [1, 1, 2, 3, 5, 8, 13, 21, 34, 55]
 """
