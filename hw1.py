@@ -1,5 +1,5 @@
 """
-Prakarsh Pandeb, Harveb Mudd College
+Prakarsh Pandey, Harvey Mudd College
 Homework 1:
 Problem Statement:
 Design a program that calculates and outputs the least common multiple of two
