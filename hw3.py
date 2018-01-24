@@ -18,7 +18,6 @@ def printToScreen():
 Sample Output:
 
 >>> printToScreen()
-0
 6
 28
 496
